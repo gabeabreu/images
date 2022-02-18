@@ -1,0 +1,242 @@
+[
+  {
+    "hotelName": "ZENSURE",
+    "bookingCompany": "KEEG",
+    "rating": 0.1,
+    "price": 476.63,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%203aaa.png"
+  },
+  {
+    "hotelName": "QUORDATE",
+    "bookingCompany": "TURNLING",
+    "rating": 3.3,
+    "price": 485.56,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%204aaa.png"
+  },
+  {
+    "hotelName": "NETPLODE",
+    "bookingCompany": "MAGNINA",
+    "rating": 1.7,
+    "price": 198.16,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%205aaa.png"
+  },
+  {
+    "hotelName": "ZAPPIX",
+    "bookingCompany": "ADORNICA",
+    "rating": 2.9,
+    "price": 462.87,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%206aaa.png"
+  },
+  {
+    "hotelName": "ZENTIME",
+    "bookingCompany": "NETBOOK",
+    "rating": 3.5,
+    "price": 348.67,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%207aaa.png"
+  },
+  {
+    "hotelName": "TERASCAPE",
+    "bookingCompany": "SULTRAXIN",
+    "rating": 4.3,
+    "price": 396.53,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%208aaa.png"
+  },
+  {
+    "hotelName": "ZIDOX",
+    "bookingCompany": "MAINELAND",
+    "rating": 3.5,
+    "price": 449.95,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%203aaa.png"
+  },
+  {
+    "hotelName": "MALATHION",
+    "bookingCompany": "DIGIRANG",
+    "rating": 3.9,
+    "price": 192.96,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%204aaa.png"
+  },
+  {
+    "hotelName": "KAGE",
+    "bookingCompany": "AUSTECH",
+    "rating": 2.5,
+    "price": 351.71,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%205aaa.png"
+  },
+  {
+    "hotelName": "INTERGEEK",
+    "bookingCompany": "MULTIFLEX",
+    "rating": 1.8,
+    "price": 108.94,
+    "city": "Brasília",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%206aaa.png"
+  },
+  {
+    "hotelName": "SENTIA",
+    "bookingCompany": "UNIWORLD",
+    "rating": 4.1,
+    "price": 280.47,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%207aaa.png"
+  },
+  {
+    "hotelName": "SENSATE",
+    "bookingCompany": "ENTHAZE",
+    "rating": 0,
+    "price": 399.81,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%208aaa.png"
+  },
+  {
+    "hotelName": "TSUNAMIA",
+    "bookingCompany": "NAMEGEN",
+    "rating": 0.8,
+    "price": 407.14,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%203aaa.png"
+  },
+  {
+    "hotelName": "ACCRUEX",
+    "bookingCompany": "PEARLESSA",
+    "rating": 1.4,
+    "price": 403.63,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%204aaa.png"
+  },
+  {
+    "hotelName": "ISOTRONIC",
+    "bookingCompany": "RECOGNIA",
+    "rating": 2.7,
+    "price": 446.48,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%205aaa.png"
+  },
+  {
+    "hotelName": "PLEXIA",
+    "bookingCompany": "TUBALUM",
+    "rating": 1.7,
+    "price": 191.62,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%206aaa.png"
+  },
+  {
+    "hotelName": "VISUALIX",
+    "bookingCompany": "FLEETMIX",
+    "rating": 3.8,
+    "price": 107.71,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%207aaa.png"
+  },
+  {
+    "hotelName": "OZEAN",
+    "bookingCompany": "MOBILDATA",
+    "rating": 2.9,
+    "price": 236.26,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%208aaa.png"
+  },
+  {
+    "hotelName": "COFINE",
+    "bookingCompany": "ZOARERE",
+    "rating": 0.9,
+    "price": 453.23,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%203aaa.png"
+  },
+  {
+    "hotelName": "APEXIA",
+    "bookingCompany": "ORBEAN",
+    "rating": 0.4,
+    "price": 476.85,
+    "city": "São Paulo",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%204aaa.png"
+  },
+  {
+    "hotelName": "COMBOGENE",
+    "bookingCompany": "MATRIXITY",
+    "rating": 2.6,
+    "price": 428.15,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%205aaa.png"
+  },
+  {
+    "hotelName": "TASMANIA",
+    "bookingCompany": "PAPRICUT",
+    "rating": 3.5,
+    "price": 300.84,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%206aaa.png"
+  },
+  {
+    "hotelName": "INFOTRIPS",
+    "bookingCompany": "STUCCO",
+    "rating": 2.6,
+    "price": 161.61,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%207aaa.png"
+  },
+  {
+    "hotelName": "HIVEDOM",
+    "bookingCompany": "EXOTERIC",
+    "rating": 4.9,
+    "price": 426.25,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%208aaa.png"
+  },
+  {
+    "hotelName": "INSURITY",
+    "bookingCompany": "PRINTSPAN",
+    "rating": 0.3,
+    "price": 371.27,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%203aaa.png"
+  },
+  {
+    "hotelName": "DUFLEX",
+    "bookingCompany": "OPTICOM",
+    "rating": 2,
+    "price": 358.63,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%204aaa.png"
+  },
+  {
+    "hotelName": "SKINSERVE",
+    "bookingCompany": "PERKLE",
+    "rating": 0.1,
+    "price": 199.61,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%205aaa.png"
+  },
+  {
+    "hotelName": "VIXO",
+    "bookingCompany": "ZENSUS",
+    "rating": 1.3,
+    "price": 254.62,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%206aaa.png"
+  },
+  {
+    "hotelName": "TELLIFLY",
+    "bookingCompany": "MINGA",
+    "rating": 3.7,
+    "price": 473.63,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%207aaa.png"
+  },
+  {
+    "hotelName": "QIAO",
+    "bookingCompany": "TALENDULA",
+    "rating": 2.7,
+    "price": 178.23,
+    "city": "Rio de Janeiro",
+    "image": "https://raw.githubusercontent.com/gabeabreu/images/main/Frame%208aaa.png"
+  }
+]
